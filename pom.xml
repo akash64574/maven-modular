@@ -14,11 +14,11 @@
   </modules>
   
   <scm>
-       <connection>scm:https://github.com/singhmohini/maven-multi-module-example.git</connection>
-       <url>https://github.com/singhmohini/maven-multi-module-example.git</url>
-       <developerConnection>scm:git:https://github.com/singhmohini/maven-multi-module-example.git</developerConnection>
-      <tag>rel-2.0</tag>
-  </scm>
+           <connection>scm:https://github.com/akash64574/maven-modular.git</connection>
+           <url>https://github.com/akash64574/maven-modular.git</url>
+           <developerConnection>scm:git:https://github.com/akash64574/maven-modular.git</developerConnection>
+           <tag>1.1</tag>
+        </scm>
   
   
   
